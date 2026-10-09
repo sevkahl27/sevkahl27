@@ -22,7 +22,7 @@
 
 # 👾 SELAMAT DATANG DI GITHUB SAYA
 
-```bash
+
 ┌──(sevka㉿github)-[~]
 └─$ cat about.txt
 
@@ -37,7 +37,6 @@
 
 ┌──(sevka㉿github)-[~]
 └─$ _
-```
 
 <div align="center">
 
