@@ -87,7 +87,7 @@
 </div>
 
 ### 🛠️ DevOps & Tools
-<div align="center">
+<div">
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
@@ -112,8 +112,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%88+CONTRIBUTION+GRAPH" alt="Graph" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff2e97&line=00d9f5&point=ffffff&area=true&area_color=8a2be2&hide_border=true" width="100%" alt="Activity Graph" />
 
