@@ -87,7 +87,7 @@
 </div>
 
 ### 🛠️ DevOps & Tools
-<div align="">
+<div align="center">
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
@@ -100,10 +100,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00D9F5&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%8A+GITHUB+STATS" alt="Stats" />
 
-<br>
+<br/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff2e97&icon_color=00d9f5&text_color=c9d1d9&ring_color=8a2be2" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e97&text_color=c9d1d9" alt="Top Languages" />
 
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0d1117&ring=ff2e97&fire=ff6b35&currStreakLabel=00f5a0&currStreakNum=ffffff&sideLabels=00d9f5&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
 
@@ -111,6 +113,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%88+CONTRIBUTION+GRAPH" alt="Graph" />
 
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff2e97&line=00d9f5&point=ffffff&area=true&area_color=8a2be2&hide_border=true" width="100%" alt="Activity Graph" />
 
@@ -118,6 +121,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%90%8D+SNAKE+MODE" alt="Snake" />
 
+<br/>
 
 <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-neon.svg" width="100%" alt="Snake animation" />
 
@@ -125,6 +129,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=FF2E97&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8F%86+TROPHIES" alt="Trophies" />
 
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
 
@@ -132,12 +137,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%A4%9D+LET'S+CONNECT" alt="Connect" />
 
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff2e97)](https://github.com/USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
 
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00D9F5&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING!+%F0%9F%92%9C;DON'T+FORGET+TO+LEAVE+A+%E2%AD%90" alt="Thanks" />
 
