@@ -87,7 +87,7 @@
 </div>
 
 ### 🛠️ DevOps & Tools
-<div align="center">
+<div align="">
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
