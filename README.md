@@ -100,7 +100,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00D9F5&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%8A+GITHUB+STATS" alt="Stats" />
 
-
+<br>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff2e97&icon_color=00d9f5&text_color=c9d1d9&ring_color=8a2be2" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e97&text_color=c9d1d9" alt="Top Languages" />
 
