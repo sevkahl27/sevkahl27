@@ -22,21 +22,13 @@
 
 # 👾 SELAMAT DATANG DI GITHUB SAYA
 
+<div align="center">
 
-┌──(sevka㉿github)-[~]
-└─$ cat about.txt
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=00F5A0&background=0D1117&multiline=true&repeat=false&width=640&height=300&lines=%E2%94%8C%E2%94%80%E2%94%80%28sevka%E3%89%BFgithub%29-%5B~%5D;%E2%94%94%E2%94%80%24+cat+about.txt;%F0%9F%91%A4+NAMA+%E2%96%B8+Sevka;%F0%9F%92%BC+ROLE+%E2%96%B8+Polyglot+Developer;%F0%9F%94%AD+PROJECT+%E2%96%B8+Tokoshop+%28Web%29;%F0%9F%8C%B1+LEARNING+%E2%96%B8+Teknologi+baru+setiap+hari;%F0%9F%A4%9D+STATUS+%E2%96%B8+Open+for+collaboration;%E2%9A%A1+MOTTO+%E2%96%B8+%22Code.+Learn.+Repeat.%22;%E2%94%94%E2%94%80%24+_" alt="about sevka terminal" />
+</a>
 
-  ╔═══════════════════════════════════════════════
-  ║  👤 NAMA      : Sevka
-  ║  💼 ROLE      : Polyglot Developer
-  ║  🔭 PROJECT   : Tokoshop (Web)
-  ║  🌱 LEARNING  : Teknologi baru setiap hari
-  ║  🤝 STATUS    : Open for collaboration
-  ║  ⚡ MOTTO     : "Code. Learn. Repeat."
-  ╚═══════════════════════════════════════════════
-
-┌──(sevka㉿github)-[~]
-└─$ _
+</div>
 
 <div align="center">
 
@@ -130,7 +122,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%90%8D+SNAKE+MODE" alt="Snake" />
 
 <br/>
-<img src="https://raw.githubusercontent.com/sevkahl27/sevkahl27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-neon.svg" width="100%" alt="Snake animation" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
