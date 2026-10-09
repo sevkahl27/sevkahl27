@@ -110,12 +110,6 @@ sevka@github:~$ _
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=00f5a0&line=00d9f5&point=ffffff&area=true&area_color=00f5a0&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-# 🐍 Snake Contribution
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
 # 🏆 Trophy
 
 <div align="center">
