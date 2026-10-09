@@ -131,8 +131,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%90%8D+SNAKE+MODE" alt="Snake" />
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-neon.svg" width="100%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sevkahl27/sevkahl27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
