@@ -26,14 +26,14 @@
 ┌──(sevka㉿github)-[~]
 └─$ cat about.txt
 
-  ╔════════════════════════════════════════════════╗
-  ║  👤 NAMA      : Sevka                          ║
-  ║  💼 ROLE      : Polyglot Developer             ║
-  ║  🔭 PROJECT   : Tokoshop (Web)                 ║
-  ║  🌱 LEARNING  : Teknologi baru setiap hari     ║
-  ║  🤝 STATUS    : Open for collaboration         ║
-  ║  ⚡ MOTTO     : "Code. Learn. Repeat."         ║
-  ╚════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════
+  ║  👤 NAMA      : Sevka
+  ║  💼 ROLE      : Polyglot Developer
+  ║  🔭 PROJECT   : Tokoshop (Web)
+  ║  🌱 LEARNING  : Teknologi baru setiap hari
+  ║  🤝 STATUS    : Open for collaboration
+  ║  ⚡ MOTTO     : "Code. Learn. Repeat."
+  ╚═══════════════════════════════════════════════
 
 ┌──(sevka㉿github)-[~]
 └─$ _
