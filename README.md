@@ -1,12 +1,15 @@
 <!-- Ganti semua USERNAME dengan username GitHub kamu, dan EMAIL_KAMU@gmail.com dengan emailmu -->
 
-<div align="">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:8a2be2,100:00d9f5&height=280&section=header&text=SEVKA&fontSize=100&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A6%20SELAMAT%20DATANG%20DI%20GITHUB%20SAYA%20%E2%9C%A6&descAlignY=62&descSize=20&descColor=ffffff" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=720&height=60&lines=%3E+INITIALIZING+SEVKA.EXE+...;%3E+POLYGLOT+DEVELOPER+%F0%9F%92%BB;%3E+BUILDING+THE+FUTURE+%F0%9F%9A%80;%3E+CODE.+LEARN.+REPEAT.;%3E+LET'S+COLLABORATE+%E2%9C%A8" alt="Typing SVG" />
 </a>
+
+<br/>
+
 ![Views](https://komarev.com/ghpvc/?username=USERNAME&label=VIEWS&color=ff2e97&style=for-the-badge&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=8a2be2&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&color=00d9f5&labelColor=0d1117)
@@ -27,7 +30,7 @@
 
 </div>
 
-<div align="">
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
@@ -38,7 +41,7 @@
 </div>
 
 ### 🧠 Bahasa Pemrograman
-<div align="">
+<div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -84,7 +87,7 @@
 </div>
 
 ### 🛠️ DevOps & Tools
-<div">
+<div align="center">
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
@@ -109,6 +112,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%93%88+CONTRIBUTION+GRAPH" alt="Graph" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff2e97&line=00d9f5&point=ffffff&area=true&area_color=8a2be2&hide_border=true" width="100%" alt="Activity Graph" />
 
